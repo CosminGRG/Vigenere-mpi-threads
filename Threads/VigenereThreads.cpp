@@ -197,7 +197,6 @@ int main() {
 
 	for (int i = 0; i < whitespaces.size(); i++)
 	{
-		//result[i].insert(result.begin() + whitespaces[i], ' ');
 		result.insert(result.begin() + whitespaces[i], ' ');
 	}
 
